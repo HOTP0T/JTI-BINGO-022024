@@ -56,6 +56,15 @@ img {
     align-items: center;
 }
 
+/* body {
+    font-family: "My Custom Font";
+} */
+
 h1 {
-    font-size: 25px;
+    font-size: 18px;
 }
+
+/* @font-face {
+    font-family: "My Custom Font";
+    src: url(./Font/runescape_uf.ttf) format("truetype");
+} */
